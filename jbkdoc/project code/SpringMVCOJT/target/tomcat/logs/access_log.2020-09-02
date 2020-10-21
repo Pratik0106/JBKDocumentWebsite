@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:15:09:30 -0700] "GET /loginpage HTTP/1.1" 200 638 http-bio-8080-exec-2 620
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:15:09:32 -0700] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8080-exec-4 8
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:15:09:37 -0700] "POST /login HTTP/1.1" 200 453 http-bio-8080-exec-7 896
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:15:10:20 -0700] "GET /checkboxlist HTTP/1.1" 200 4247 http-bio-8080-exec-9 392
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:16:13:49 -0700] "GET /loginpage HTTP/1.1" 200 5389 http-bio-8080-exec-3 1045
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:16:13:50 -0700] "GET /resources/plugins/iCheck/square/blue.css HTTP/1.1" 404 949 http-bio-8080-exec-6 211
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:16:13:50 -0700] "GET /resources/plugins/jQuery/jQuery-2.1.4.min.js HTTP/1.1" 200 84345 http-bio-8080-exec-7 328
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:16:13:50 -0700] "GET /resources/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 122540 http-bio-8080-exec-4 365
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:16:13:50 -0700] "GET /resources/plugins/iCheck/icheck.min.js HTTP/1.1" 404 949 http-bio-8080-exec-9 3
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:16:13:50 -0700] "GET /resources/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 35951 http-bio-8080-exec-10 101
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:16:13:50 -0700] "GET /resources/dist/css/AdminLTE.min.css HTTP/1.1" 200 86394 http-bio-8080-exec-5 506
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:16:13:50 -0700] "GET /images/jbk.png HTTP/1.1" 200 79601 http-bio-8080-exec-8 198
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:16:13:52 -0700] "GET /resources/plugins/iCheck/icheck.min.js HTTP/1.1" 404 949 http-bio-8080-exec-8 4
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:16:13:55 -0700] "GET /resources/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028 http-bio-8080-exec-8 3018
